@@ -24,13 +24,13 @@
 
 A estatística é dividida em quatro partes: 
 
-- Amostragem e planejamento de experimentos
+- <a href="https://github.com/area-41/Estatistica#amostragem-e-planejamento-de-experimentos">Amostragem e planejamento de experimentos</a>
 
-- Estatística descritiva
+- <a href="https://github.com/area-41/Estatistica/edit/main/README.md#estat%C3%ADstica-descritiva">Estatística descritiva</a>
 
-- Probabilidade
+- <a href="https://github.com/area-41/Estatistica/edit/main/README.md#probabilidade">Probabilidade</a>
 
-- Estatística inferencial.
+- <a href="https://github.com/area-41/Estatistica/edit/main/README.md#estat%C3%ADstica-inferencial">Estatística inferencial.</a>
 
 
 ---
