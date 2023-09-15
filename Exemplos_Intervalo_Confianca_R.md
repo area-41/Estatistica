@@ -1,4 +1,4 @@
-# Intervalo de Confiança sem Sigma
+# Exemplos de uso de Intervalo de Confiança sem Sigma
 
 ### Oxigênio na água
 ![image](https://github.com/area-41/Estatistica/assets/87396846/f1c4a54b-9c88-4513-b7bd-7aa07186d32a)
